@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExemploCardView</string>
+    <string name="title">Teste CardView</string>
+    <!-- Exemplo de frase com quebra de linha \n (Barra invertida e N) -->
+    <string name="description">Este exemplo consiste na criação de um CardView contendo uma imagem, um titulo e uma descrição.
+    \n Validando paragrafo na descrição. =D</string>
+</resources>
